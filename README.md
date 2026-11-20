@@ -1,4 +1,4 @@
-# Ler
+# Ler - sobre Numerical_Features.ipynb - Decisões - Tudo o necessário
 
 Formato de cada tópico: **Normal** (valores esperados) · **Mal** (o que está errado) · **Gráficos** (muito resumido) · **Decisão** (o que fazer no NB1).
 
